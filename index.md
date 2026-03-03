@@ -26,7 +26,7 @@ Labs:
 - **Lab 03 — ELK Installation & Web Attack Investigation**  
   [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-03-ELK-installation-and-investigation/)
 - **Lab 04 – Intrusion Investigation in ELK (TryHackMe – Hunt Me II)**  
-  [View Lab 04](https://giboris.github.io/Cybersecurity-labs/Lab-04-Intrusion-investigation-in-ELK/)
+  [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-04-Intrusion-investigation-in-ELK/)
 
 ---
 
