@@ -6,13 +6,13 @@ title: Boris — Cybersecurity Portfolio
 # Boris — Cybersecurity Portfolio 🛡️
 
 This site is my public portfolio for **entry-level SOC / Cybersecurity Analyst** roles.  
-It links to hands-on labs demonstrating practical skills in **Splunk (SIEM)**, **log parsing**, **Windows administration**, and **PowerShell automation**.
+It links to hands-on labs demonstrating practical skills in **Splunk (SIEM)**, **ELK (SIEM)**, **log parsing**, **Windows administration**, and **PowerShell automation** and in other tools.
 
 ---
 
 ## Lab Repositories
 
-### A) Cybersecurity Labs (Splunk / SIEM)
+### A) Cybersecurity Labs (Splunk/ ELK/ SIEM)
 Practical Splunk labs focused on ingestion, parsing, field extraction, and investigation workflows.
 
 - **Repository:** https://github.com/GiBoris/Cybersecurity-labs  
@@ -25,6 +25,8 @@ Labs:
   [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-02-Splunk-parcing-and-log-analysis/)
 - **Lab 03 — ELK Installation & Web Attack Investigation**  
   [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-03-ELK-installation-and-investigation/)
+- **Lab 04 – Intrusion Investigation in ELK (TryHackMe – Hunt Me II)**  
+  [View Lab 04](https://giboris.github.io/Cybersecurity-labs/Lab-04-Intrusion-investigation-in-ELK/)
 
 ---
 
