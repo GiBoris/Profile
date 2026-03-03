@@ -19,6 +19,8 @@ Labs:
   https://giboris.github.io/Cybersecurity-labs/Lab-02-Splunk-parcing-and-log-analysis/
 - **Lab 03 — ELK Installation & Web Attack Investigation**  
   https://giboris.github.io/Cybersecurity-labs/Lab-03-ELK-installation-and-investigation/
+- **Lab 04 — Intrusion Investigation in ELK (TryHackMe – Hunt Me II)  
+  https://giboris.github.io/Cybersecurity-labs/Lab-04-Intrusion-investigation-in-ELK/
 
 ---
 
