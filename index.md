@@ -5,64 +5,60 @@ title: Boris — Cybersecurity Portfolio
 
 # Boris — Cybersecurity Portfolio 🛡️
 
-This site is my public portfolio for **entry-level SOC / Cybersecurity Analyst** roles.  
-It links to hands-on labs demonstrating practical skills in **Splunk (SIEM)**, **ELK (SIEM)**, **log parsing**, **Windows administration**, and **PowerShell automation** and in other tools.
+Microsoft Certified Security Operations Analyst (SC-200) transitioning into **SOC / Cybersecurity Analyst roles**.
+
+Hands-on experience across:
+
+- SIEM: Splunk, ELK, Microsoft Sentinel  
+- EDR: Microsoft Defender for Endpoint  
+- Threat Hunting: KQL, log analysis  
+- Detection Engineering & SOAR  
 
 ---
 
 ## Lab Repositories
 
-### A) Cybersecurity Labs (Splunk/ ELK/ SIEM)
-Practical Splunk labs focused on ingestion, parsing, field extraction, and investigation workflows.
+---
 
-- **Repository:** https://github.com/GiBoris/Cybersecurity-labs  
-- **Site:** https://giboris.github.io/Cybersecurity-labs/
+### 🔵 Cybersecurity Labs (Splunk / ELK)
 
-Labs:
-- **Lab 01 — Splunk Fundamentals**  
-  [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-01-Splunk-Fundamentals/)
-- **Lab 02 — Splunk Parsing & Log Analysis (TryHackMe – FixIt)**  
-  [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-02-Splunk-parcing-and-log-analysis/)
-- **Lab 03 — ELK Installation & Web Attack Investigation**  
-  [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-03-ELK-installation-and-investigation/)
-- **Lab 04 – Intrusion Investigation in ELK (TryHackMe – Hunt Me II)**  
-  [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-04-Intrusion-investigation-in-ELK/)
+Practical SIEM labs focused on ingestion, parsing, and investigation workflows.
+
+➡️ https://giboris.github.io/Cybersecurity-labs/
 
 ---
 
-### B) IT Fundamentals Labs (Windows / PowerShell Foundations)
-System administration and scripting fundamentals that support SOC operations and incident response.
+### 🟢 Microsoft Security Labs (Sentinel / Defender / KQL)
 
-- **Repository:** https://github.com/GiBoris/IT-Fundamentals-Labs  
-- **Site:** https://giboris.github.io/IT-Fundamentals-Labs/
+End-to-end Microsoft security stack:
 
-Labs:
-- **Lab 01 — Windows Server Administration**  
-  [View Lab →](https://giboris.github.io/IT-Fundamentals-Labs/Lab-1-Windows-Server-Administration/)
-- **Lab 02 — PowerShell Scripting**  
-  [View Lab →](https://giboris.github.io/IT-Fundamentals-Labs/Lab-2-PowerShell-Scripting/)
+- Sentinel (SIEM)
+- Defender XDR (EDR)
+- KQL threat hunting
+- Detection rules & automation
 
----
-
-## Core Focus Areas
-
-- SOC / Blue Team fundamentals
-- SIEM-based investigations (Splunk)
-- Log ingestion, parsing, and field extraction
-- Windows administration foundations
-- PowerShell scripting and automation basics
+➡️ https://giboris.github.io/Microsoft-security-solutions-labs/
 
 ---
 
-## Portfolio Philosophy
+### 🟡 IT Fundamentals Labs
 
-Each lab is documented with:
-- clear objective and scope;
-- reproducible steps;
-- screenshots as evidence;
-- concise learning outcomes.
+Core system skills supporting SOC operations:
 
-All labs are performed in **isolated, non-production environments** using **simulated data**.
+- Windows Server
+- PowerShell automation
+
+➡️ https://giboris.github.io/IT-Fundamentals-Labs/
+
+---
+
+## What this portfolio demonstrates
+
+- Practical SOC analyst skillset aligned with real-world tools  
+- Ability to investigate, detect, and respond to security events  
+- Hands-on experience across multiple SIEM platforms  
+- Strong analytical and structured problem-solving approach  
+- Transition from senior professional role into cybersecurity with proven discipline and execution  
 
 ---
 
@@ -70,4 +66,3 @@ All labs are performed in **isolated, non-production environments** using **simu
 
 - LinkedIn: https://www.linkedin.com/in/bgibadatov/
 - GitHub: https://github.com/GiBoris
-
