@@ -24,7 +24,7 @@ Hands-on experience across:
 
 Practical SIEM labs focused on ingestion, parsing, and investigation workflows.
 
-➡️ https://giboris.github.io/Cybersecurity-labs/
+➡️ [Open Cybersecurity Labs](https://giboris.github.io/Cybersecurity-labs/)
 
 ---
 
@@ -32,12 +32,12 @@ Practical SIEM labs focused on ingestion, parsing, and investigation workflows.
 
 End-to-end Microsoft security stack:
 
-- Sentinel (SIEM)
-- Defender XDR (EDR)
-- KQL threat hunting
-- Detection rules & automation
+- Sentinel (SIEM)  
+- Defender XDR (EDR)  
+- KQL threat hunting  
+- Detection rules & automation  
 
-➡️ https://giboris.github.io/Microsoft-security-solutions-labs/
+➡️ [Open Microsoft Security Labs](https://giboris.github.io/Microsoft-security-solutions-labs/)
 
 ---
 
@@ -45,10 +45,10 @@ End-to-end Microsoft security stack:
 
 Core system skills supporting SOC operations:
 
-- Windows Server
-- PowerShell automation
+- Windows Server  
+- PowerShell automation  
 
-➡️ https://giboris.github.io/IT-Fundamentals-Labs/
+➡️ [Open IT Fundamentals Labs](https://giboris.github.io/IT-Fundamentals-Labs/)
 
 ---
 
@@ -64,5 +64,5 @@ Core system skills supporting SOC operations:
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/bgibadatov/
-- GitHub: https://github.com/GiBoris
+- LinkedIn: [https://www.linkedin.com/in/bgibadatov/](https://www.linkedin.com/in/bgibadatov/)
+- GitHub: [https://github.com/GiBoris](https://github.com/GiBoris)
