@@ -1,10 +1,18 @@
 # Boris — Cybersecurity Portfolio (Entry-Level SOC / Blue Team) 🛡️
 
-Microsoft Certified Security Operations Analyst (SC-200) with CompTIA Security+ and Network+ certifications, transitioning into **SOC and cloud security operations**.
+I'm a certified Security Operations Analyst with hands-on experience across SIEM platforms, threat detection, incident response and vulnerability management.
+My technical foundation spans the full Microsoft security stack Sentinel, Defender XDR and KQL-based threat hunting, alongside Splunk, ELK Stack and Tenable Nessus, built through 150+ structured Blue Team labs and real-world simulation scenarios.
+Before moving into cybersecurity, I spent 15 years as a Senior Manager at Deloitte, leading complex risk-based audit engagements including engagements for listed clients. That background gave me something most junior analysts don't have — structured investigative thinking, high-pressure delivery, and the ability to communicate complex findings clearly to senior stakeholders. Skills that translate directly into security operations.
 
-This portfolio demonstrates **hands-on, job-relevant experience across SIEM, EDR, detection engineering, and incident response workflows**.
+What I work with:
+- Microsoft Sentinel, Splunk and ELK Stack for SIEM investigations and detection engineering
+- Microsoft Defender XDR and Defender for Endpoint for endpoint telemetry and alert analysis
+- KQL for threat hunting and custom analytics rule development
+- Tenable Nessus for vulnerability assessments and risk prioritisation
+- Phishing analysis, IOC enrichment and end-to-end incident response simulations
+- MITRE ATT&CK, NIST CSF, ISO 27001 and Essential Eight frameworks
 
-Brings 15+ years of professional experience in high-pressure environments, applying structured investigation, risk assessment, and analytical thinking directly transferable to cybersecurity.
+Open to SOC Analyst and Cybersecurity Analyst opportunities across Brisbane and remote.
 
 ---
 
