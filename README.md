@@ -1,4 +1,4 @@
-# Boris Gibadatov — Cybersecurity Portfolio (Entry-Level SOC / Blue Team) 🛡️
+# Boris Gibadatov — Cybersecurity Portfolio 🛡️
 
 I'm a certified Security Operations Analyst with hands-on experience across SIEM platforms, threat detection, incident response and vulnerability management.
 My technical foundation spans the full Microsoft security stack Sentinel, Defender XDR and KQL-based threat hunting, alongside Splunk, ELK Stack and Tenable Nessus, built through 150+ structured Blue Team labs and real-world simulation scenarios.
