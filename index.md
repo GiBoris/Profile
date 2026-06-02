@@ -3,7 +3,7 @@ layout: default
 title: Boris — Cybersecurity Portfolio
 ---
 
-# Boris — Cybersecurity Portfolio 🛡️
+# Boris Gibadatov — Cybersecurity Portfolio 🛡️
 
 I'm a certified Security Operations Analyst with hands-on experience across SIEM platforms, threat detection, incident response and vulnerability management. My technical foundation spans the full Microsoft security stack Sentinel, Defender XDR and KQL-based threat hunting, alongside Splunk, ELK Stack and Tenable Nessus, built through 150+ structured Blue Team labs and real-world simulation scenarios. Before moving into cybersecurity, I spent 15 years as a Senior Manager at Deloitte, leading complex risk-based audit engagements including engagements for listed clients. That background gave me something most junior analysts don't have — structured investigative thinking, high-pressure delivery, and the ability to communicate complex findings clearly to senior stakeholders. Skills that translate directly into security operations.
 
